@@ -16443,7 +16443,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 58.42 128.27 270)
+		(at 58.42 138.43 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16452,7 +16452,7 @@
 		(fields_autoplaced yes)
 		(uuid "736a42c8-c1c0-4bc5-be0b-b7912ee3183b")
 		(property "Reference" "#PWR04"
-			(at 54.61 128.27 0)
+			(at 54.61 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16461,7 +16461,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 62.23 128.2699 90)
+			(at 62.23 138.4299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16470,7 +16470,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 128.27 0)
+			(at 58.42 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16479,7 +16479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 128.27 0)
+			(at 58.42 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16488,7 +16488,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 58.42 128.27 0)
+			(at 58.42 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22415,7 +22415,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
-		(at 53.34 133.35 180)
+		(at 53.34 138.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22424,7 +22424,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7f7cca8-f1c6-41ea-9926-e293b2eb72a5")
 		(property "Reference" "J2"
-			(at 53.975 123.19 0)
+			(at 53.975 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22432,7 +22432,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Socket"
-			(at 53.975 125.73 0)
+			(at 53.975 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22440,7 +22440,7 @@
 			)
 		)
 		(property "Footprint" "Dependencies:RoundSolderPad_1x4_1mm"
-			(at 53.34 133.35 0)
+			(at 53.34 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22449,7 +22449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 133.35 0)
+			(at 53.34 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22458,7 +22458,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 53.34 133.35 0)
+			(at 53.34 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22479,7 +22479,7 @@
 			(uuid "9b271d62-149c-4866-b090-3be4cbe664fa")
 		)
 		(instances
-			(project ""
+			(project "BusinessCard"
 				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
 					(reference "J2")
 					(unit 1)
@@ -23651,7 +23651,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 58.42 130.81 90)
+		(at 58.42 140.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23660,7 +23660,7 @@
 		(fields_autoplaced yes)
 		(uuid "ded441f5-7233-41e4-9593-abc7aaecd9e0")
 		(property "Reference" "#PWR03"
-			(at 64.77 130.81 0)
+			(at 64.77 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23669,7 +23669,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 130.8099 90)
+			(at 62.23 140.9699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23678,7 +23678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 130.81 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23687,7 +23687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 130.81 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23696,7 +23696,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 58.42 130.81 0)
+			(at 58.42 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
