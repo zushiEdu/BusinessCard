@@ -2651,12 +2651,6 @@
 		(uuid "07d6d4cc-dead-4158-a9dc-687ae9070fe4")
 	)
 	(junction
-		(at 138.43 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08da2439-8337-4756-a6ba-1807c3cfd8bd")
-	)
-	(junction
 		(at 339.09 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2729,6 +2723,12 @@
 		(uuid "11ecbab4-1af2-4d5b-ba60-95b2661b5604")
 	)
 	(junction
+		(at 115.57 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1220871d-f229-4db5-930c-48c0fa04b4a3")
+	)
+	(junction
 		(at 344.17 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2753,16 +2753,16 @@
 		(uuid "16e95cf1-27a7-47bd-9439-fa9be6c9a832")
 	)
 	(junction
+		(at 115.57 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "175cb30e-fcea-43ba-aaac-a03f0980f45b")
+	)
+	(junction
 		(at 276.86 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1950d10a-0d36-42d6-9260-ad569c7f5c96")
-	)
-	(junction
-		(at 142.24 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1b00f134-2e36-4755-ad12-23c9eb87c691")
 	)
 	(junction
 		(at 285.75 144.78)
@@ -2793,12 +2793,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21f9e2d4-d717-4ebf-b870-0127f923a6db")
-	)
-	(junction
-		(at 146.05 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2212eefe-33e0-4adb-a051-9f73b929e74e")
 	)
 	(junction
 		(at 285.75 67.31)
@@ -2943,6 +2937,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30ffbfab-6a97-4b94-a4fd-0ec1f4ec3352")
+	)
+	(junction
+		(at 140.97 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31013993-93b3-4777-944a-6527c9fb4651")
 	)
 	(junction
 		(at 335.28 179.07)
@@ -3381,6 +3381,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78715a0a-e9a5-4c13-b004-71aa5f5be555")
+	)
+	(junction
+		(at 107.95 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78945d4d-08d6-42f6-a2b2-c57ab7681f75")
 	)
 	(junction
 		(at 339.09 53.34)
@@ -3911,10 +3917,22 @@
 		(uuid "c633aba4-8676-4043-a6e5-41c85823b03a")
 	)
 	(junction
+		(at 107.95 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c69f30e5-f1e0-4496-aef8-b13878a6a689")
+	)
+	(junction
 		(at 294.64 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c762c12d-6b72-42f3-b33b-0d461b1fdeeb")
+	)
+	(junction
+		(at 115.57 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c86d5353-bef6-45ee-9caf-031d6b50004e")
 	)
 	(junction
 		(at 353.06 60.96)
@@ -4049,18 +4067,6 @@
 		(uuid "dbf5e3c5-4c59-4a47-8d33-d3ab8807f6db")
 	)
 	(junction
-		(at 146.05 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc16efbe-7d0b-4431-a88d-b6931dde5dbe")
-	)
-	(junction
-		(at 138.43 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ddae8213-6d9c-497b-bf6a-60cff0d14756")
-	)
-	(junction
 		(at 285.75 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4083,6 +4089,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfa25a03-5409-4c07-a273-ee8c29533478")
+	)
+	(junction
+		(at 144.78 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfdfcc20-c2a3-4dae-bfd8-150bdb07cb37")
 	)
 	(junction
 		(at 356.87 67.31)
@@ -4307,6 +4319,12 @@
 		(uuid "fe89df7a-92f1-476b-8a4d-9389695817b8")
 	)
 	(junction
+		(at 107.95 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff0424af-d1c3-47a5-b84a-8469557695ee")
+	)
+	(junction
 		(at 356.87 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4377,6 +4395,16 @@
 			(type default)
 		)
 		(uuid "0487f663-0e7f-4f48-88ff-7e634f46c8e2")
+	)
+	(wire
+		(pts
+			(xy 107.95 31.75) (xy 107.95 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04ff25fa-f291-4e5a-9ba2-ee35b7611701")
 	)
 	(wire
 		(pts
@@ -4457,6 +4485,16 @@
 			(type default)
 		)
 		(uuid "08c40990-8709-4d0b-8b18-801a76eb9ec2")
+	)
+	(wire
+		(pts
+			(xy 116.84 66.04) (xy 115.57 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a4a5c6a-46f7-4d63-8be0-2d6855d9c12c")
 	)
 	(wire
 		(pts
@@ -5450,7 +5488,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 87.63) (xy 142.24 87.63)
+			(xy 146.05 87.63) (xy 144.78 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5467,16 +5505,6 @@
 			(type default)
 		)
 		(uuid "41976adf-2b98-4844-a0a7-b13ffb0582a0")
-	)
-	(wire
-		(pts
-			(xy 146.05 62.23) (xy 146.05 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41dc75a4-fb58-428e-88e0-11df1ac93331")
 	)
 	(wire
 		(pts
@@ -5797,6 +5825,16 @@
 			(type default)
 		)
 		(uuid "56aaccbc-539b-42dd-bb88-d5e5865ee71c")
+	)
+	(wire
+		(pts
+			(xy 107.95 66.04) (xy 106.68 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57c07854-1474-40f8-847e-48dfc65d361d")
 	)
 	(wire
 		(pts
@@ -7020,16 +7058,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 73.66) (xy 146.05 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90de55e7-2409-4c4f-bc4c-eba020cfeb44")
-	)
-	(wire
-		(pts
 			(xy 330.2 38.1) (xy 330.2 40.64)
 		)
 		(stroke
@@ -7087,6 +7115,16 @@
 			(type default)
 		)
 		(uuid "93eb44b4-0882-43f4-bbaa-bf579852bd2a")
+	)
+	(wire
+		(pts
+			(xy 115.57 54.61) (xy 115.57 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93f92dcc-6988-49c9-b652-7af501d4f065")
 	)
 	(wire
 		(pts
@@ -7500,7 +7538,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 80.01) (xy 137.16 80.01)
+			(xy 144.78 80.01) (xy 140.97 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7830,16 +7868,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 62.23) (xy 138.43 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb39acc7-792f-437b-8a9f-6f3ccf1b9e68")
-	)
-	(wire
-		(pts
 			(xy 353.06 152.4) (xy 361.95 152.4)
 		)
 		(stroke
@@ -8077,6 +8105,16 @@
 			(type default)
 		)
 		(uuid "c87deebf-a482-4836-ab49-fba5eec0f8c0")
+	)
+	(wire
+		(pts
+			(xy 140.97 80.01) (xy 137.16 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c90c197c-e89e-44e8-97f4-19cb9edd86d8")
 	)
 	(wire
 		(pts
@@ -8400,6 +8438,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 43.18) (xy 107.95 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d902aa30-00b3-4438-a39b-19c29c213d2b")
+	)
+	(wire
+		(pts
 			(xy 326.39 191.77) (xy 335.28 191.77)
 		)
 		(stroke
@@ -8520,7 +8568,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 87.63) (xy 142.24 87.63)
+			(xy 137.16 87.63) (xy 144.78 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8697,16 +8745,6 @@
 			(type default)
 		)
 		(uuid "e5f0a84b-73e9-4f4c-8580-830d7c4ccd8d")
-	)
-	(wire
-		(pts
-			(xy 138.43 73.66) (xy 137.16 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5fda4dd-fd2c-4358-b111-24df3a86412a")
 	)
 	(wire
 		(pts
@@ -8940,16 +8978,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 50.8) (xy 146.05 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2a9e6d3-0f60-475e-a3f0-cf25d52cbe8c")
-	)
-	(wire
-		(pts
 			(xy 326.39 179.07) (xy 335.28 179.07)
 		)
 		(stroke
@@ -9017,16 +9045,6 @@
 			(type default)
 		)
 		(uuid "f41ddb1a-f51d-487f-84a7-abb73e3ee812")
-	)
-	(wire
-		(pts
-			(xy 138.43 50.8) (xy 138.43 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f498cd07-a7f9-4b87-8fc9-c756d842807d")
 	)
 	(wire
 		(pts
@@ -9247,6 +9265,36 @@
 			(type default)
 		)
 		(uuid "fe6df329-6b3e-4ef8-a394-d447a29904e0")
+	)
+	(wire
+		(pts
+			(xy 115.57 31.75) (xy 115.57 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe983033-5d09-4fa7-80eb-876949048505")
+	)
+	(wire
+		(pts
+			(xy 115.57 43.18) (xy 115.57 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fea63786-f4ed-484b-8176-99386511ce05")
+	)
+	(wire
+		(pts
+			(xy 107.95 54.61) (xy 107.95 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff01b751-9289-48d4-9a57-7cfc027f52e3")
 	)
 	(wire
 		(pts
@@ -10606,7 +10654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 148.59 0)
 			(effects
 				(font
@@ -10642,7 +10690,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 148.59 0)
 			(effects
 				(font
@@ -10718,7 +10766,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 87.63 0)
 			(effects
 				(font
@@ -10769,7 +10817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 44.45 0)
 			(effects
 				(font
@@ -10805,7 +10853,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 44.45 0)
 			(effects
 				(font
@@ -10856,7 +10904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 148.59 0)
 			(effects
 				(font
@@ -10892,7 +10940,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 148.59 0)
 			(effects
 				(font
@@ -10943,7 +10991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 175.26 0)
 			(effects
 				(font
@@ -10979,7 +11027,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 175.26 0)
 			(effects
 				(font
@@ -11030,7 +11078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 83.82 0)
 			(effects
 				(font
@@ -11066,7 +11114,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 83.82 0)
 			(effects
 				(font
@@ -11117,7 +11165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 57.15 0)
 			(effects
 				(font
@@ -11153,7 +11201,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 57.15 0)
 			(effects
 				(font
@@ -11204,7 +11252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 161.29 0)
 			(effects
 				(font
@@ -11240,7 +11288,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 161.29 0)
 			(effects
 				(font
@@ -11291,7 +11339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 161.29 0)
 			(effects
 				(font
@@ -11327,7 +11375,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 161.29 0)
 			(effects
 				(font
@@ -11378,7 +11426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 83.82 0)
 			(effects
 				(font
@@ -11414,7 +11462,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 83.82 0)
 			(effects
 				(font
@@ -11439,16 +11487,15 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 142.24 83.82 270)
+		(at 144.78 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1394e84c-e4e1-4ff5-a462-fa0673a76709")
 		(property "Reference" "D1"
-			(at 144.78 82.2324 90)
+			(at 147.32 82.2324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11457,7 +11504,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 144.78 84.7724 90)
+			(at 147.32 84.7724 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11466,7 +11513,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 142.24 83.82 0)
+			(at 144.78 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11475,7 +11522,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 83.82 0)
+			(at 144.78 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11484,7 +11531,7 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 142.24 83.82 0)
+			(at 144.78 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11493,7 +11540,7 @@
 			)
 		)
 		(property "LCSC" "C191023"
-			(at 142.24 83.82 0)
+			(at 144.78 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11753,7 +11800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 44.45 0)
 			(effects
 				(font
@@ -11789,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 44.45 0)
 			(effects
 				(font
@@ -11814,16 +11861,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 142.24 62.23 90)
+		(at 111.76 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1d100164-e02b-40aa-9af8-ff5ebb3db5ed")
 		(property "Reference" "C2"
-			(at 142.24 54.61 90)
+			(at 111.76 47.498 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11831,7 +11877,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 142.24 57.15 90)
+			(at 111.76 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11839,7 +11885,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 146.05 61.2648 0)
+			(at 115.57 53.6448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11848,7 +11894,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 62.23 0)
+			(at 111.76 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11857,7 +11903,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 142.24 62.23 0)
+			(at 111.76 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11866,7 +11912,7 @@
 			)
 		)
 		(property "LCSC" "C1525"
-			(at 142.24 62.23 0)
+			(at 111.76 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11916,7 +11962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 57.15 0)
 			(effects
 				(font
@@ -11952,7 +11998,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 57.15 0)
 			(effects
 				(font
@@ -12003,7 +12049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 96.52 0)
 			(effects
 				(font
@@ -12039,7 +12085,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 96.52 0)
 			(effects
 				(font
@@ -12115,7 +12161,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 191.77 0)
 			(effects
 				(font
@@ -12166,7 +12212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 57.15 0)
 			(effects
 				(font
@@ -12202,7 +12248,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 57.15 0)
 			(effects
 				(font
@@ -12253,7 +12299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 57.15 0)
 			(effects
 				(font
@@ -12289,7 +12335,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 57.15 0)
 			(effects
 				(font
@@ -12340,7 +12386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 83.82 0)
 			(effects
 				(font
@@ -12376,7 +12422,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 83.82 0)
 			(effects
 				(font
@@ -12427,7 +12473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 187.96 0)
 			(effects
 				(font
@@ -12463,7 +12509,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 187.96 0)
 			(effects
 				(font
@@ -12514,7 +12560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 71.12 0)
 			(effects
 				(font
@@ -12550,7 +12596,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 71.12 0)
 			(effects
 				(font
@@ -12601,7 +12647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 135.89 0)
 			(effects
 				(font
@@ -12637,7 +12683,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 135.89 0)
 			(effects
 				(font
@@ -12688,7 +12734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 175.26 0)
 			(effects
 				(font
@@ -12724,7 +12770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 175.26 0)
 			(effects
 				(font
@@ -12775,7 +12821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 57.15 0)
 			(effects
 				(font
@@ -12811,7 +12857,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 57.15 0)
 			(effects
 				(font
@@ -12829,6 +12875,81 @@
 			(project "BusinessCard"
 				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
 					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 140.97 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "38413a83-c63b-4eea-b106-c66dc3de3823")
+		(property "Reference" "C4"
+			(at 148.59 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 nF"
+			(at 146.05 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 141.9352 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.97 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 140.97 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 140.97 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ebb249a4-0344-45d6-aafd-74d258d73f22")
+		)
+		(pin "2"
+			(uuid "8fea782d-8c72-4cb4-a38b-3cbe5880cc0d")
+		)
+		(instances
+			(project "BusinessCard"
+				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -12862,7 +12983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 83.82 0)
 			(effects
 				(font
@@ -12898,7 +13019,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 83.82 0)
 			(effects
 				(font
@@ -12949,7 +13070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 123.19 0)
 			(effects
 				(font
@@ -12985,7 +13106,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 123.19 0)
 			(effects
 				(font
@@ -13036,7 +13157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 187.96 0)
 			(effects
 				(font
@@ -13072,7 +13193,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 187.96 0)
 			(effects
 				(font
@@ -13148,7 +13269,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 139.7 0)
 			(effects
 				(font
@@ -13199,7 +13320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 161.29 0)
 			(effects
 				(font
@@ -13235,7 +13356,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 161.29 0)
 			(effects
 				(font
@@ -13286,7 +13407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 96.52 0)
 			(effects
 				(font
@@ -13322,7 +13443,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 96.52 0)
 			(effects
 				(font
@@ -13373,7 +13494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 109.22 0)
 			(effects
 				(font
@@ -13409,7 +13530,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 109.22 0)
 			(effects
 				(font
@@ -13460,7 +13581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 135.89 0)
 			(effects
 				(font
@@ -13496,7 +13617,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 135.89 0)
 			(effects
 				(font
@@ -13597,7 +13718,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 142.24 50.8 90)
+		(at 111.76 31.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13605,8 +13726,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41623506-de2c-430c-ba7c-a90a09d1a73b")
-		(property "Reference" "C3"
-			(at 142.24 43.18 90)
+		(property "Reference" "C5"
+			(at 111.76 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13614,7 +13735,7 @@
 			)
 		)
 		(property "Value" "4.7 uF"
-			(at 142.24 45.72 90)
+			(at 111.76 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13622,7 +13743,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 146.05 49.8348 0)
+			(at 115.57 30.7848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13631,7 +13752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 50.8 0)
+			(at 111.76 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13640,7 +13761,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 142.24 50.8 0)
+			(at 111.76 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13648,8 +13769,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C307423"
-			(at 142.24 50.8 0)
+		(property "LCSC" "C23733"
+			(at 111.76 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13665,7 +13786,7 @@
 		(instances
 			(project "BusinessCard"
 				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
-					(reference "C3")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -13699,7 +13820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 109.22 0)
 			(effects
 				(font
@@ -13735,7 +13856,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 109.22 0)
 			(effects
 				(font
@@ -13786,7 +13907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 83.82 0)
 			(effects
 				(font
@@ -13822,7 +13943,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 83.82 0)
 			(effects
 				(font
@@ -13873,7 +13994,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 187.96 0)
 			(effects
 				(font
@@ -13909,7 +14030,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 187.96 0)
 			(effects
 				(font
@@ -13960,7 +14081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 135.89 0)
 			(effects
 				(font
@@ -13996,7 +14117,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 135.89 0)
 			(effects
 				(font
@@ -14047,7 +14168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 96.52 0)
 			(effects
 				(font
@@ -14083,7 +14204,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 96.52 0)
 			(effects
 				(font
@@ -14134,7 +14255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 161.29 0)
 			(effects
 				(font
@@ -14170,7 +14291,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 161.29 0)
 			(effects
 				(font
@@ -14221,7 +14342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 175.26 0)
 			(effects
 				(font
@@ -14257,7 +14378,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 175.26 0)
 			(effects
 				(font
@@ -14386,7 +14507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 71.12 0)
 			(effects
 				(font
@@ -14422,7 +14543,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 71.12 0)
 			(effects
 				(font
@@ -14473,7 +14594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 175.26 0)
 			(effects
 				(font
@@ -14509,7 +14630,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 175.26 0)
 			(effects
 				(font
@@ -14560,7 +14681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 123.19 0)
 			(effects
 				(font
@@ -14596,7 +14717,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 123.19 0)
 			(effects
 				(font
@@ -14671,7 +14792,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 162.56 0)
 			(effects
 				(font
@@ -14722,7 +14843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 135.89 0)
 			(effects
 				(font
@@ -14758,7 +14879,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 135.89 0)
 			(effects
 				(font
@@ -14809,7 +14930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 96.52 0)
 			(effects
 				(font
@@ -14845,7 +14966,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 96.52 0)
 			(effects
 				(font
@@ -14896,7 +15017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 175.26 0)
 			(effects
 				(font
@@ -14932,7 +15053,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 175.26 0)
 			(effects
 				(font
@@ -14983,7 +15104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 161.29 0)
 			(effects
 				(font
@@ -15019,7 +15140,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 161.29 0)
 			(effects
 				(font
@@ -15162,7 +15283,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 120.65 0)
 			(effects
 				(font
@@ -15238,7 +15359,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25531"
+		(property "LCSC" "C25744"
 			(at 74.93 95.25 0)
 			(effects
 				(font
@@ -15289,7 +15410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 71.12 0)
 			(effects
 				(font
@@ -15325,7 +15446,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 71.12 0)
 			(effects
 				(font
@@ -15376,7 +15497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 161.29 0)
 			(effects
 				(font
@@ -15412,7 +15533,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 161.29 0)
 			(effects
 				(font
@@ -15463,7 +15584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 44.45 0)
 			(effects
 				(font
@@ -15499,7 +15620,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 44.45 0)
 			(effects
 				(font
@@ -15629,7 +15750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 123.19 0)
 			(effects
 				(font
@@ -15665,7 +15786,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 123.19 0)
 			(effects
 				(font
@@ -15716,7 +15837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 161.29 0)
 			(effects
 				(font
@@ -15752,7 +15873,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 161.29 0)
 			(effects
 				(font
@@ -15803,7 +15924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 71.12 0)
 			(effects
 				(font
@@ -15839,7 +15960,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 71.12 0)
 			(effects
 				(font
@@ -15890,7 +16011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 71.12 0)
 			(effects
 				(font
@@ -15926,7 +16047,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 71.12 0)
 			(effects
 				(font
@@ -16018,7 +16139,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 137.16 73.66 90)
+		(at 106.68 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16027,7 +16148,7 @@
 		(fields_autoplaced yes)
 		(uuid "6791ecb7-aa44-40d8-8279-6efdb21f15bb")
 		(property "Reference" "#PWR05"
-			(at 140.97 73.66 0)
+			(at 110.49 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16036,7 +16157,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 133.35 73.6599 90)
+			(at 102.87 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16045,7 +16166,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 73.66 0)
+			(at 106.68 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16054,7 +16175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 73.66 0)
+			(at 106.68 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16063,7 +16184,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 137.16 73.66 0)
+			(at 106.68 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16111,7 +16232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 123.19 0)
 			(effects
 				(font
@@ -16147,7 +16268,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 123.19 0)
 			(effects
 				(font
@@ -16198,7 +16319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 135.89 0)
 			(effects
 				(font
@@ -16234,7 +16355,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 135.89 0)
 			(effects
 				(font
@@ -16310,7 +16431,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 60.96 0)
 			(effects
 				(font
@@ -16361,7 +16482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 175.26 0)
 			(effects
 				(font
@@ -16397,7 +16518,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 175.26 0)
 			(effects
 				(font
@@ -16472,7 +16593,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 172.72 0)
 			(effects
 				(font
@@ -16523,7 +16644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 44.45 0)
 			(effects
 				(font
@@ -16559,7 +16680,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 44.45 0)
 			(effects
 				(font
@@ -16610,7 +16731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 83.82 0)
 			(effects
 				(font
@@ -16646,7 +16767,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 83.82 0)
 			(effects
 				(font
@@ -16697,7 +16818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 96.52 0)
 			(effects
 				(font
@@ -16733,7 +16854,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 96.52 0)
 			(effects
 				(font
@@ -16784,7 +16905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 187.96 0)
 			(effects
 				(font
@@ -16820,7 +16941,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 187.96 0)
 			(effects
 				(font
@@ -16871,7 +16992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 71.12 0)
 			(effects
 				(font
@@ -16907,7 +17028,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 71.12 0)
 			(effects
 				(font
@@ -16958,7 +17079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 96.52 0)
 			(effects
 				(font
@@ -16994,7 +17115,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 96.52 0)
 			(effects
 				(font
@@ -17112,7 +17233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 187.96 0)
 			(effects
 				(font
@@ -17148,7 +17269,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 187.96 0)
 			(effects
 				(font
@@ -17166,6 +17287,81 @@
 			(project "BusinessCard"
 				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
 					(reference "D142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 111.76 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "75794d08-87c5-4af6-8d58-0930e433556e")
+		(property "Reference" "C3"
+			(at 111.76 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 nF"
+			(at 111.76 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 115.57 42.2148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 111.76 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 111.76 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b6fb3b3-26e2-4967-a0cb-9ab1b2ef5e39")
+		)
+		(pin "2"
+			(uuid "5062e9bc-9237-4e0e-b057-45d076bc6440")
+		)
+		(instances
+			(project "BusinessCard"
+				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -17199,7 +17395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 161.29 0)
 			(effects
 				(font
@@ -17235,7 +17431,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 161.29 0)
 			(effects
 				(font
@@ -17286,7 +17482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 109.22 0)
 			(effects
 				(font
@@ -17322,7 +17518,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 109.22 0)
 			(effects
 				(font
@@ -17373,7 +17569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 71.12 0)
 			(effects
 				(font
@@ -17409,7 +17605,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 71.12 0)
 			(effects
 				(font
@@ -17460,7 +17656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 175.26 0)
 			(effects
 				(font
@@ -17496,7 +17692,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 175.26 0)
 			(effects
 				(font
@@ -17547,7 +17743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 187.96 0)
 			(effects
 				(font
@@ -17583,7 +17779,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 187.96 0)
 			(effects
 				(font
@@ -17634,7 +17830,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 135.89 0)
 			(effects
 				(font
@@ -17670,7 +17866,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 135.89 0)
 			(effects
 				(font
@@ -17695,7 +17891,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 147.32 73.66 90)
+		(at 116.84 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17704,7 +17900,7 @@
 		(fields_autoplaced yes)
 		(uuid "7be1f44c-606d-428e-b1e8-ecc2051a8769")
 		(property "Reference" "#PWR06"
-			(at 153.67 73.66 0)
+			(at 123.19 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17713,7 +17909,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 73.6599 90)
+			(at 120.65 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17722,7 +17918,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 73.66 0)
+			(at 116.84 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17731,7 +17927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 73.66 0)
+			(at 116.84 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17740,7 +17936,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 147.32 73.66 0)
+			(at 116.84 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17788,7 +17984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 57.15 0)
 			(effects
 				(font
@@ -17824,7 +18020,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 57.15 0)
 			(effects
 				(font
@@ -17875,7 +18071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 109.22 0)
 			(effects
 				(font
@@ -17911,7 +18107,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 109.22 0)
 			(effects
 				(font
@@ -17936,7 +18132,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 142.24 73.66 90)
+		(at 111.76 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17945,7 +18141,7 @@
 		(fields_autoplaced yes)
 		(uuid "82c59397-f2b2-4dc3-94c0-a515980e5832")
 		(property "Reference" "C1"
-			(at 142.24 66.04 90)
+			(at 111.76 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17953,7 +18149,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 142.24 68.58 90)
+			(at 111.76 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17961,7 +18157,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 146.05 72.6948 0)
+			(at 115.57 65.0748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17970,7 +18166,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 73.66 0)
+			(at 111.76 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17979,7 +18175,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 142.24 73.66 0)
+			(at 111.76 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17988,7 +18184,7 @@
 			)
 		)
 		(property "LCSC" "C1525"
-			(at 142.24 73.66 0)
+			(at 111.76 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18038,7 +18234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 123.19 0)
 			(effects
 				(font
@@ -18074,7 +18270,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 123.19 0)
 			(effects
 				(font
@@ -18125,7 +18321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 109.22 0)
 			(effects
 				(font
@@ -18161,7 +18357,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 109.22 0)
 			(effects
 				(font
@@ -18212,7 +18408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 148.59 0)
 			(effects
 				(font
@@ -18248,7 +18444,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 148.59 0)
 			(effects
 				(font
@@ -18299,7 +18495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 109.22 0)
 			(effects
 				(font
@@ -18335,7 +18531,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 109.22 0)
 			(effects
 				(font
@@ -18386,7 +18582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 44.45 0)
 			(effects
 				(font
@@ -18422,7 +18618,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 44.45 0)
 			(effects
 				(font
@@ -18473,7 +18669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 109.22 0)
 			(effects
 				(font
@@ -18509,7 +18705,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 109.22 0)
 			(effects
 				(font
@@ -18560,7 +18756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 44.45 0)
 			(effects
 				(font
@@ -18596,7 +18792,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 44.45 0)
 			(effects
 				(font
@@ -18647,7 +18843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 83.82 0)
 			(effects
 				(font
@@ -18683,7 +18879,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 83.82 0)
 			(effects
 				(font
@@ -18734,7 +18930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 83.82 0)
 			(effects
 				(font
@@ -18770,7 +18966,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 83.82 0)
 			(effects
 				(font
@@ -18846,7 +19042,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 74.93 0)
 			(effects
 				(font
@@ -18989,7 +19185,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 127 0)
 			(effects
 				(font
@@ -19065,7 +19261,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 142.24 0)
 			(effects
 				(font
@@ -19116,7 +19312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 148.59 0)
 			(effects
 				(font
@@ -19152,7 +19348,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 148.59 0)
 			(effects
 				(font
@@ -19203,7 +19399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 135.89 0)
 			(effects
 				(font
@@ -19239,7 +19435,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 135.89 0)
 			(effects
 				(font
@@ -19290,7 +19486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 71.12 0)
 			(effects
 				(font
@@ -19326,7 +19522,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 71.12 0)
 			(effects
 				(font
@@ -19377,7 +19573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 71.12 0)
 			(effects
 				(font
@@ -19413,7 +19609,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 71.12 0)
 			(effects
 				(font
@@ -19464,7 +19660,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 96.52 0)
 			(effects
 				(font
@@ -19500,7 +19696,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 96.52 0)
 			(effects
 				(font
@@ -19551,7 +19747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 187.96 0)
 			(effects
 				(font
@@ -19587,7 +19783,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 187.96 0)
 			(effects
 				(font
@@ -19638,7 +19834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 148.59 0)
 			(effects
 				(font
@@ -19674,7 +19870,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 148.59 0)
 			(effects
 				(font
@@ -19725,7 +19921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 71.12 0)
 			(effects
 				(font
@@ -19761,7 +19957,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 71.12 0)
 			(effects
 				(font
@@ -19812,7 +20008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 175.26 0)
 			(effects
 				(font
@@ -19848,7 +20044,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 175.26 0)
 			(effects
 				(font
@@ -19924,7 +20120,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 179.07 0)
 			(effects
 				(font
@@ -20280,7 +20476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 71.12 0)
 			(effects
 				(font
@@ -20316,7 +20512,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 71.12 0)
 			(effects
 				(font
@@ -20367,7 +20563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 161.29 0)
 			(effects
 				(font
@@ -20403,7 +20599,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 161.29 0)
 			(effects
 				(font
@@ -20454,7 +20650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 148.59 0)
 			(effects
 				(font
@@ -20490,7 +20686,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 148.59 0)
 			(effects
 				(font
@@ -20541,7 +20737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 96.52 0)
 			(effects
 				(font
@@ -20577,7 +20773,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 96.52 0)
 			(effects
 				(font
@@ -20628,7 +20824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 123.19 0)
 			(effects
 				(font
@@ -20664,7 +20860,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 123.19 0)
 			(effects
 				(font
@@ -20715,7 +20911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 175.26 0)
 			(effects
 				(font
@@ -20751,7 +20947,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 175.26 0)
 			(effects
 				(font
@@ -20802,7 +20998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 57.15 0)
 			(effects
 				(font
@@ -20838,7 +21034,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 57.15 0)
 			(effects
 				(font
@@ -20889,7 +21085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 44.45 0)
 			(effects
 				(font
@@ -20925,7 +21121,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 44.45 0)
 			(effects
 				(font
@@ -20976,7 +21172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 57.15 0)
 			(effects
 				(font
@@ -21012,7 +21208,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 57.15 0)
 			(effects
 				(font
@@ -21030,6 +21226,72 @@
 			(project "BusinessCard"
 				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
 					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 140.97 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a788159b-5ce1-4bda-883a-5e15a414ec03")
+		(property "Reference" "#PWR013"
+			(at 140.97 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 140.97 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 140.97 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "308e32ac-a920-43db-9a37-18511819a15d")
+		)
+		(instances
+			(project ""
+				(path "/e6903c3c-d24e-4d4a-96bc-6632eb326ff1"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -21063,7 +21325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 44.45 0)
 			(effects
 				(font
@@ -21099,7 +21361,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 44.45 0)
 			(effects
 				(font
@@ -21175,7 +21437,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 130.81 0)
 			(effects
 				(font
@@ -21226,7 +21488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 148.59 0)
 			(effects
 				(font
@@ -21262,7 +21524,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 148.59 0)
 			(effects
 				(font
@@ -21337,7 +21599,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25543"
+		(property "LCSC" "C11702"
 			(at 199.39 152.4 0)
 			(effects
 				(font
@@ -21388,7 +21650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 57.15 0)
 			(effects
 				(font
@@ -21424,7 +21686,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 57.15 0)
 			(effects
 				(font
@@ -21475,7 +21737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 57.15 0)
 			(effects
 				(font
@@ -21511,7 +21773,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 57.15 0)
 			(effects
 				(font
@@ -21562,7 +21824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 175.26 0)
 			(effects
 				(font
@@ -21598,7 +21860,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 175.26 0)
 			(effects
 				(font
@@ -21649,7 +21911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 161.29 0)
 			(effects
 				(font
@@ -21685,7 +21947,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 161.29 0)
 			(effects
 				(font
@@ -21761,7 +22023,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 113.03 0)
 			(effects
 				(font
@@ -21878,7 +22140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 135.89 0)
 			(effects
 				(font
@@ -21914,7 +22176,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 135.89 0)
 			(effects
 				(font
@@ -21965,7 +22227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 123.19 0)
 			(effects
 				(font
@@ -22001,7 +22263,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 123.19 0)
 			(effects
 				(font
@@ -22052,7 +22314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 57.15 0)
 			(effects
 				(font
@@ -22088,7 +22350,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 57.15 0)
 			(effects
 				(font
@@ -22139,7 +22401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 123.19 0)
 			(effects
 				(font
@@ -22175,7 +22437,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 123.19 0)
 			(effects
 				(font
@@ -22226,7 +22488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 109.22 0)
 			(effects
 				(font
@@ -22262,7 +22524,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 109.22 0)
 			(effects
 				(font
@@ -22313,7 +22575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 71.12 0)
 			(effects
 				(font
@@ -22349,7 +22611,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 71.12 0)
 			(effects
 				(font
@@ -22400,7 +22662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 96.52 0)
 			(effects
 				(font
@@ -22436,7 +22698,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 96.52 0)
 			(effects
 				(font
@@ -22487,7 +22749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 83.82 0)
 			(effects
 				(font
@@ -22523,7 +22785,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 83.82 0)
 			(effects
 				(font
@@ -22574,7 +22836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 187.96 0)
 			(effects
 				(font
@@ -22610,7 +22872,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 187.96 0)
 			(effects
 				(font
@@ -22661,7 +22923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 123.19 0)
 			(effects
 				(font
@@ -22697,7 +22959,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 123.19 0)
 			(effects
 				(font
@@ -22748,7 +23010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 109.22 0)
 			(effects
 				(font
@@ -22784,7 +23046,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 109.22 0)
 			(effects
 				(font
@@ -22835,7 +23097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 148.59 0)
 			(effects
 				(font
@@ -22871,7 +23133,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 148.59 0)
 			(effects
 				(font
@@ -22998,7 +23260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 109.22 0)
 			(effects
 				(font
@@ -23034,7 +23296,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 109.22 0)
 			(effects
 				(font
@@ -23085,7 +23347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 187.96 0)
 			(effects
 				(font
@@ -23121,7 +23383,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 187.96 0)
 			(effects
 				(font
@@ -23172,7 +23434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 135.89 0)
 			(effects
 				(font
@@ -23208,7 +23470,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 135.89 0)
 			(effects
 				(font
@@ -23259,7 +23521,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 135.89 0)
 			(effects
 				(font
@@ -23295,7 +23557,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 135.89 0)
 			(effects
 				(font
@@ -23346,7 +23608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 175.26 0)
 			(effects
 				(font
@@ -23382,7 +23644,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 175.26 0)
 			(effects
 				(font
@@ -23458,7 +23720,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 48.26 0)
 			(effects
 				(font
@@ -23534,7 +23796,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 165.1 0)
 			(effects
 				(font
@@ -23667,7 +23929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 281.94 175.26 0)
 			(effects
 				(font
@@ -23703,7 +23965,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 281.94 175.26 0)
 			(effects
 				(font
@@ -23754,7 +24016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 290.83 96.52 0)
 			(effects
 				(font
@@ -23790,7 +24052,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 290.83 96.52 0)
 			(effects
 				(font
@@ -23841,7 +24103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 161.29 0)
 			(effects
 				(font
@@ -23877,7 +24139,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 161.29 0)
 			(effects
 				(font
@@ -23928,7 +24190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 148.59 0)
 			(effects
 				(font
@@ -23964,7 +24226,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 148.59 0)
 			(effects
 				(font
@@ -24015,7 +24277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 148.59 0)
 			(effects
 				(font
@@ -24051,7 +24313,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 148.59 0)
 			(effects
 				(font
@@ -24102,7 +24364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 109.22 0)
 			(effects
 				(font
@@ -24138,7 +24400,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 109.22 0)
 			(effects
 				(font
@@ -24163,7 +24425,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 143.51 87.63 270)
+		(at 146.05 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24172,7 +24434,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc065d51-4280-4df8-8f39-b3f391c33185")
 		(property "Reference" "#PWR01"
-			(at 139.7 87.63 0)
+			(at 142.24 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24181,7 +24443,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 147.32 87.6299 90)
+			(at 149.86 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24190,7 +24452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 87.63 0)
+			(at 146.05 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24199,7 +24461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 87.63 0)
+			(at 146.05 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24208,7 +24470,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 143.51 87.63 0)
+			(at 146.05 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24256,7 +24518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 83.82 0)
 			(effects
 				(font
@@ -24292,7 +24554,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 83.82 0)
 			(effects
 				(font
@@ -24343,7 +24605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 123.19 0)
 			(effects
 				(font
@@ -24379,7 +24641,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 123.19 0)
 			(effects
 				(font
@@ -24430,7 +24692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 308.61 135.89 0)
 			(effects
 				(font
@@ -24466,7 +24728,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 308.61 135.89 0)
 			(effects
 				(font
@@ -24517,7 +24779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -24553,7 +24815,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -24604,7 +24866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 96.52 0)
 			(effects
 				(font
@@ -24640,7 +24902,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 96.52 0)
 			(effects
 				(font
@@ -24691,7 +24953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 96.52 0)
 			(effects
 				(font
@@ -24727,7 +24989,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 96.52 0)
 			(effects
 				(font
@@ -24778,7 +25040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 187.96 0)
 			(effects
 				(font
@@ -24814,7 +25076,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 187.96 0)
 			(effects
 				(font
@@ -25008,7 +25270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 44.45 0)
 			(effects
 				(font
@@ -25044,7 +25306,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 44.45 0)
 			(effects
 				(font
@@ -25120,7 +25382,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 152.4 0)
 			(effects
 				(font
@@ -25171,7 +25433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 44.45 0)
 			(effects
 				(font
@@ -25207,7 +25469,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 44.45 0)
 			(effects
 				(font
@@ -25258,7 +25520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 273.05 135.89 0)
 			(effects
 				(font
@@ -25294,7 +25556,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 273.05 135.89 0)
 			(effects
 				(font
@@ -25421,7 +25683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 326.39 109.22 0)
 			(effects
 				(font
@@ -25457,7 +25719,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 326.39 109.22 0)
 			(effects
 				(font
@@ -25508,7 +25770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 299.72 44.45 0)
 			(effects
 				(font
@@ -25544,7 +25806,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 299.72 44.45 0)
 			(effects
 				(font
@@ -25595,7 +25857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 83.82 0)
 			(effects
 				(font
@@ -25631,7 +25893,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 83.82 0)
 			(effects
 				(font
@@ -25682,7 +25944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 44.45 0)
 			(effects
 				(font
@@ -25718,7 +25980,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 44.45 0)
 			(effects
 				(font
@@ -25769,7 +26031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 123.19 0)
 			(effects
 				(font
@@ -25805,7 +26067,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 123.19 0)
 			(effects
 				(font
@@ -25856,7 +26118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 344.17 83.82 0)
 			(effects
 				(font
@@ -25892,7 +26154,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 344.17 83.82 0)
 			(effects
 				(font
@@ -25943,7 +26205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 335.28 148.59 0)
 			(effects
 				(font
@@ -25979,7 +26241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 335.28 148.59 0)
 			(effects
 				(font
@@ -26030,7 +26292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 361.95 148.59 0)
 			(effects
 				(font
@@ -26066,7 +26328,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 361.95 148.59 0)
 			(effects
 				(font
@@ -26117,7 +26379,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 264.16 187.96 0)
 			(effects
 				(font
@@ -26153,7 +26415,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 264.16 187.96 0)
 			(effects
 				(font
@@ -26346,7 +26608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 317.5 123.19 0)
 			(effects
 				(font
@@ -26382,7 +26644,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 317.5 123.19 0)
 			(effects
 				(font
@@ -26458,7 +26720,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25151"
+		(property "LCSC" "C25091"
 			(at 256.54 100.33 0)
 			(effects
 				(font
@@ -26509,7 +26771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 161.29 0)
 			(effects
 				(font
@@ -26545,7 +26807,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 161.29 0)
 			(effects
 				(font
@@ -26596,7 +26858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Dependencies:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder_Notext"
+		(property "Footprint" "Dependencies:LED_0603_1608Metric_Notext"
 			(at 353.06 187.96 0)
 			(effects
 				(font
@@ -26632,7 +26894,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C88330"
+		(property "LCSC" "C7496803"
 			(at 353.06 187.96 0)
 			(effects
 				(font

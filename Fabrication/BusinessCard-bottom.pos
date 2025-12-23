@@ -1,0 +1,22 @@
+### Footprint positions - created on 2025-12-23T15:42:24-0500 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                        Package                         PosX       PosY       Rot  Side
+REF**     R_4020_10251Metric         R_4020_10251Metric           60.3983  -105.5000  180.0000  bottom
+REF**     TQFP-64_10x10mm_P0.5mm     TQFP-64_10x10mm_P0.5mm       48.0858   -91.5000  180.0000  bottom
+REF**     TQFP-48_7x7mm_P0.5mm       TQFP-48_7x7mm_P0.5mm         47.0858  -103.5000  180.0000  bottom
+REF**     R_0805_2012Metric          R_0805_2012Metric            64.4858   -92.0000  180.0000  bottom
+REF**     SOT-23                     SOT-23                       38.8358   -60.7500   90.0000  bottom
+REF**     R_2010_5025Metric          R_2010_5025Metric            62.9858   -96.9000  180.0000  bottom
+REF**     R_1206_3216Metric          R_1206_3216Metric            63.8858   -94.1000  180.0000  bottom
+REF**     SOT-223                    SOT-223                      31.6158   -56.7500    0.0000  bottom
+REF**     R_2512_6332Metric          R_2512_6332Metric            62.3358  -100.5000  180.0000  bottom
+REF**     TQFP-32_7x7mm_P0.8mm       TQFP-32_7x7mm_P0.8mm         32.5858   -83.0000  180.0000  bottom
+REF**     SOIC-14_3.9x8.7mm_P1.27mm  SOIC-14_3.9x8.7mm_P1.27mm    31.8358   -64.5000  -90.0000  bottom
+REF**     R_0603_1608Metric          R_0603_1608Metric            64.6308   -90.0000  180.0000  bottom
+REF**     R_0402_1005Metric          R_0402_1005Metric            65.0858   -88.5000  180.0000  bottom
+REF**     SOT-323_SC-70              SOT-323_SC-70                39.5858   -86.5000  -90.0000  bottom
+REF**     R_0201_0603Metric          R_0201_0603Metric            65.2858   -87.0000  180.0000  bottom
+REF**     SOIC-8_3.9x4.9mm_P1.27mm   SOIC-8_3.9x4.9mm_P1.27mm     29.9908   -73.0250  -90.0000  bottom
+## End

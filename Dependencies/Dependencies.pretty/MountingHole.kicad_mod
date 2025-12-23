@@ -1,13 +1,13 @@
-(footprint "Untitled"
+(footprint "MountingHole"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 -1.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "2de8af1a-7326-484f-9156-d939ecfaf145")
+		(uuid "eaf59710-3f12-4668-adb7-2f3a9b7347a5")
 		(effects
 			(font
 				(size 1 1)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "Untitled"
-		(at 0 1 0)
+	(property "Value" "MountingHole"
+		(at 0 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "d92dd28a-67c1-457c-afea-3a8c482fa2b7")
+		(uuid "cee4da66-4f74-4418-921a-0cd8e1b8646e")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "97aa5e4f-fd2e-467b-b953-8d9164fe7c5a")
+		(uuid "2d2a1631-e05a-43c4-86ad-1d9bda7abf63")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "40f23477-daa4-47d3-ac50-0775d2562608")
+		(uuid "2bac190b-6410-4262-bf39-c15ace01aa3f")
 		(effects
 			(font
 				(size 1 1)
@@ -54,11 +54,22 @@
 		)
 	)
 	(attr smd)
+	(fp_circle
+		(center 0 0)
+		(end 0.576 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "de825ee5-b651-412f-82e4-e36275de5413")
+	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
+		(at 0 3 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "36a746ee-4eb5-4d9c-b908-1973d59d0b24")
+		(uuid "eafc122b-77ad-4ead-bc2f-d6f7ad6c0b7b")
 		(effects
 			(font
 				(size 1 1)
