@@ -228,15 +228,15 @@
 		(uuid "b0d572be-ddd8-4055-8229-30126ae952a6")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Dependencies/TL1015AF160QG/TL1015AF160QG.step"
+	(model "${KIPRJMOD}/Dependencies/TL1015AF160QG/TL1017AAAFxxxQG.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz -8.5 0 0.25)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 -0 -0)
+			(xyz -0 -180 -0)
 		)
 	)
 )
