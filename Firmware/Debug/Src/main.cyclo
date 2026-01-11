@@ -1,7 +1,7 @@
-../Src/main.c:77:5:main	8
-../Src/main.c:119:6:copyFrame	3
-../Src/main.c:127:6:generateNewGen	14
-../Src/main.c:159:6:matrixDrawRow	4
-../Src/main.c:179:6:SystemClock_Config	3
-../Src/main.c:216:13:MX_GPIO_Init	1
-../Src/main.c:284:6:Error_Handler	1
+../Src/main.c:83:5:main	16
+../Src/main.c:155:6:copyFrame	3
+../Src/main.c:163:6:generateNewGen	14
+../Src/main.c:195:6:matrixDrawRow	9
+../Src/main.c:228:6:SystemClock_Config	3
+../Src/main.c:265:13:MX_GPIO_Init	1
+../Src/main.c:333:6:Error_Handler	1

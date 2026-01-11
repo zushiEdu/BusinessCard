@@ -69,6 +69,12 @@ uint16_t colPins[COLS] =
 };
 
 uint8_t screenPower = 1;
+uint8_t editMode = 0;
+
+uint16_t cursorX = 6;
+uint16_t cursorY = 6;
+
+uint8_t cursorFlash = 0;
 
 void matrixDrawRow(uint8_t row);
 void generateNewGen(uint8_t board[][COLS]);
@@ -76,44 +82,74 @@ void copyFrame(uint8_t target[][COLS], uint8_t source[][COLS]);
 
 int main(void)
 {
-  HAL_Init();
-  SystemClock_Config();
-  MX_GPIO_Init();
-  copyFrame(display, initialScreen);
+	HAL_Init();
+	SystemClock_Config();
+	MX_GPIO_Init();
 
-  while (1)
-  {
-	  // Update board
-	  if (screenPower){
-		  generateNewGen(display);
-	  }
+	// Copy starter screen
+	copyFrame(display, initialScreen);
 
-	  if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_9) == GPIO_PIN_SET){
-		  // Reset screen on button press A
-		   copyFrame(display, initialScreen);
-	  } else if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_8) == GPIO_PIN_SET){
-		  // Trigger power on button press B
+	while (1)
+	{
+		if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_9) == GPIO_PIN_SET){
+			if (editMode){
+				// Toggle pixel on button press B if in edit mode
+				display[cursorY][cursorX] = !display[cursorY][cursorX];
+			} else {
+				// Toggle screen power on button press B if not in edit mode
+				screenPower = !screenPower;
+			}
 
-		  if (screenPower == 1){
-			  copyFrame(display, offScreen);
-			  screenPower = 0;
-		  } else {
-			   copyFrame(display, initialScreen);
-			   screenPower = 1;
-		  }
+			HAL_Delay(50);
+		}
 
-		  HAL_Delay(50);
-	  } else if (screenPower){
-		  // Refresh screen if screenPower is on
-		  for (uint16_t i = 0; i < 6; i++){
-			  for (uint8_t r = 0; r < ROWS; r++)
-			  {
-				  matrixDrawRow(r);
-				  HAL_Delay(1);
-			  }
-		  }
-	  }
-  }
+		if (screenPower){
+			// Generate new board if not in edit mode
+			if (!editMode){
+				generateNewGen(display);
+			}
+
+			// Trigger edit mode on button press A
+			if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_8) == GPIO_PIN_SET){
+				editMode = !editMode;
+				HAL_Delay(50);
+			}
+
+			// Button press Left
+			if (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_12) == GPIO_PIN_SET && cursorX >= 1){
+				cursorX--;
+				HAL_Delay(50);
+			}
+
+			// Button press Right
+			if (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_15) == GPIO_PIN_SET && cursorX <= 10){
+				cursorX++;
+				HAL_Delay(50);
+			}
+
+			// Button press Up
+			if (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_13) == GPIO_PIN_SET && cursorY >= 1){
+				cursorY--;
+				HAL_Delay(50);
+			}
+
+			// Button press Down
+			if (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_14) == GPIO_PIN_SET && cursorY <= 10){
+				cursorY++;
+				HAL_Delay(50);
+			}
+
+			// Refresh screen if screenPower is on
+			for (uint16_t i = 0; i < 6; i++){
+				cursorFlash++;
+				for (uint8_t r = 0; r < ROWS; r++)
+				{
+					matrixDrawRow(r);
+					HAL_Delay(1);
+				}
+			}
+		}
+	}
 }
 
 void copyFrame(uint8_t target[][COLS], uint8_t source[][COLS]){
@@ -158,16 +194,29 @@ void generateNewGen(uint8_t board[][COLS]){
 
 void matrixDrawRow(uint8_t row)
 {
+	// Turn all rows off
     for (int r = 0; r < ROWS; r++)
         HAL_GPIO_WritePin(GPIOB, rowPins[r], GPIO_PIN_RESET);
 
     for (int c = 0; c < COLS; c++)
     {
-        if (display[row][c])
-            HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_RESET); // LED ON
-        else
-            HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_SET);   // LED OFF
-    }
+    	if (row == cursorY && c == cursorX && editMode){
+        	// Blink cursor on edit mode
+			if (cursorFlash >= 8){
+				cursorFlash = 0;
+			} else if (cursorFlash >= 4){
+				HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_RESET); // LED ON
+			} else {
+				HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_SET);   // LED OFF
+			}
+		} else {
+			// Normal behavior
+			if (display[row][c])
+				HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_RESET); // LED ON
+			else
+				HAL_GPIO_WritePin(GPIOA, colPins[c], GPIO_PIN_SET);   // LED OFF
+    	}
+	}
 
     HAL_GPIO_WritePin(GPIOB, rowPins[row], GPIO_PIN_SET);
 }
