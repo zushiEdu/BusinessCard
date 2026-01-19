@@ -1,6 +1,6 @@
 # Business Card
 
-This is my business card. It's a little special.
+This is my business card.
 
 My business card is a PCB, using the STM32F103C8T6 microcontroller as it's brain.
 
@@ -10,11 +10,11 @@ The business card has a collection of common engineering related symbols, values
 
 The STM32 is programmed to simulate John Conway's Game of Life. The push buttons allow you to control the game board and the power of the system.
 
-The Up/Down/Left/Right buttons move the cursor around when in edit mode. While in edit mode, a cursor will flash and the user can press B to toggle the selected pixel.
+To toggle edit mode, the user can press A. While the game is not in edit mode, pressing B turns on and off the screen.
 
-To Pause/Play the game, the user can press A. While the game is paused the user can edit the board.
+The Up/Down/Left/Right buttons move the cursor around when in edit mode. While in edit mode, the cursor will flash and the user can press B to toggle the hovered pixel.
 
-Some cool patterns are printed across the front of the PCB.
+Some cool patterns are printed across the front of the PCB, these are patterns that do cool things in Conway's Game of Life.
 
 The QR code to my portfolio, and some contact info is also on the front of the PCB.
 
