@@ -18,8 +18,8 @@ Some cool patterns are printed across the front of the PCB, these are patterns t
 
 The QR code to my portfolio, and some contact info is also on the front of the PCB.
 
-![Picture of KiCad PCB view](https://portfolio.zushiedu.com/Headers/bcHeaderSquare.png)
+![Picture of KiCad PCB view](https://ethanhuber.ca/Headers/bcHeaderSquare.png)
 
-![Picture of actual Business Card Front](https://portfolio.zushiedu.com/Thumbnails/bcFront.jpg)
+![Picture of actual Business Card Front](https://ethanhuber.ca/Thumbnails/bcFront.jpg)
 
-![Picture of actual Business Card Back](https://portfolio.zushiedu.com/Thumbnails/bcBack.jpg)
+![Picture of actual Business Card Back](https://ethanhuber.ca/Thumbnails/bcBack.jpg)
